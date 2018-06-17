@@ -1,0 +1,13 @@
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\FileStreamDemo\FileStreamDemo\bin\Debug\FileStreamDemo.exe.config
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\FileStreamDemo\FileStreamDemo\bin\Debug\FileStreamDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\FileStreamDemo\FileStreamDemo\bin\Debug\FileStreamDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\FileStreamDemo\FileStreamDemo\obj\Debug\FileStreamDemo.csprojResolveAssemblyReference.cache
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\FileStreamDemo\FileStreamDemo\obj\Debug\FileStreamDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\FileStreamDemo\FileStreamDemo\obj\Debug\FileStreamDemo.pdb
+C:\Users\umit\Desktop\ileri seviye c#\2014-10-C#-ileri-seviye-dok\FileStreamDemo\FileStreamDemo\bin\Debug\FileStreamDemo.exe.config
+C:\Users\umit\Desktop\ileri seviye c#\2014-10-C#-ileri-seviye-dok\FileStreamDemo\FileStreamDemo\bin\Debug\FileStreamDemo.exe
+C:\Users\umit\Desktop\ileri seviye c#\2014-10-C#-ileri-seviye-dok\FileStreamDemo\FileStreamDemo\bin\Debug\FileStreamDemo.pdb
+C:\Users\umit\Desktop\ileri seviye c#\2014-10-C#-ileri-seviye-dok\FileStreamDemo\FileStreamDemo\obj\Debug\FileStreamDemo.csprojResolveAssemblyReference.cache
+C:\Users\umit\Desktop\ileri seviye c#\2014-10-C#-ileri-seviye-dok\FileStreamDemo\FileStreamDemo\obj\Debug\FileStreamDemo.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\ileri seviye c#\2014-10-C#-ileri-seviye-dok\FileStreamDemo\FileStreamDemo\obj\Debug\FileStreamDemo.exe
+C:\Users\umit\Desktop\ileri seviye c#\2014-10-C#-ileri-seviye-dok\FileStreamDemo\FileStreamDemo\obj\Debug\FileStreamDemo.pdb
